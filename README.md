@@ -68,3 +68,7 @@ The **Student Course Registration System** is a web-based platform that simplifi
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Developed for
+
+**DBMS Lab (Database Management System Laboratory)**
